@@ -3,6 +3,7 @@ package com.example.kotlingradle
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.extensions.LayoutContainer
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
